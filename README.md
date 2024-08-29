@@ -16,4 +16,5 @@ Esta es una aplicación React simple que utiliza feature flags para habilitar o 
 4. **Parametriza**
     cambia los valores del archivo src/featureFlags.js de true a false
 
-
+![atlassian concepto](image-1.png)
+![aplicacion feature flags](image.png)
