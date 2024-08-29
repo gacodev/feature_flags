@@ -8,7 +8,7 @@ Esta es una aplicación React simple que utiliza feature flags para habilitar o 
 ## Instalación
 
 1. **Clona el repositorio**
-    git clone
+    git clone git@github.com:gacodev/feature_flags.git
 2. **Instala las dependencias**
     npm install
 3. **Ejecuta la aplicacion**
